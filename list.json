@@ -1,5 +1,6 @@
 {
 	"version":9,
+	"name":"Main",
 	"type":"Stable",
 	"list":[
 		"*://*.0stats.com/*",
