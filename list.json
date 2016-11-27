@@ -1,5 +1,5 @@
 {
-	"version":9,
+	"version":10,
 	"name":"Main",
 	"type":"Stable",
 	"list":[
@@ -1068,6 +1068,7 @@
 		"*://*.kxtepdregiuo.com/*",
 		"*://*.kylqpeevrkgh.com/*",
 		"*://*.kyowarob.com/*",
+		"*://*.launchbit.com/*",
 		"*://*.lazkslkkmtpy.com/*",
 		"*://*.lbypppwfvagq.com/*",
 		"*://*.lckpubqq.com/*",
@@ -1545,7 +1546,6 @@
 		"*://*.rxicrihobtkf.com/*",
 		"*://*.rxuqpktyqixa.com/*",
 		"*://*.rzcmcqljwxyy.com/*",
-		"*://*.s-microsoft.com/*",
 		"*://*.s.lianmeng.360.cn/*",
 		"*://*.s1.stat.lianmeng.360.cn/*",
 		"*://*.s3ae.com/*",
