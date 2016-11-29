@@ -1,5 +1,5 @@
 {
-	"version":10,
+	"version":11,
 	"name":"Main",
 	"type":"Stable",
 	"list":[
@@ -446,6 +446,8 @@
 		"*://*.cjvgnswapbqo.com/*",
 		"*://*.cjxkzkzmdomd.com/*",
 		"*://*.ckwpsghi.com/*",
+		"*://*.click.jasmin.com/*",
+		"*://*.click.livejasmin.com/*",
 		"*://*.clickagy.com/*",
 		"*://*.clickbank.net/*",
 		"*://*.clickdistrict.com/*",
@@ -992,6 +994,7 @@
 		"*://*.iunbrudy.net/*",
 		"*://*.ivism.org/*",
 		"*://*.ivwbox.de/*",
+		"*://*.iwanttodeliver.com/*",
 		"*://*.iwrjczthkkla.com/*",
 		"*://*.ixiaa.com/*",
 		"*://*.iydcar.com/*",
@@ -1327,7 +1330,6 @@
 		"*://*.pictela.net/*",
 		"*://*.pikkr.net/*",
 		"*://*.pinchoo.com/*",
-		"*://*.pingdom.net/*",
 		"*://*.pinid.com/*",
 		"*://*.pippio.com/*",
 		"*://*.piwwplvxvqqi.com/*",
