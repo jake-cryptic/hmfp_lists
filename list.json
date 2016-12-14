@@ -1,5 +1,5 @@
 {
-	"version":14,
+	"version":15,
 	"name":"Main",
 	"type":"Stable",
 	"list":[
@@ -75,6 +75,7 @@
 		"*://*.addthis.com/*",
 		"*://*.addthisedge.com/*",
 		"*://*.adequant.com/*",
+		"*://*.adexc.net/*",
 		"*://*.adforgeinc.com/*",
 		"*://*.adform.net/*",
 		"*://*.adformdsp.net/*",
@@ -1279,6 +1280,7 @@
 		"*://*.omnitagjs.com/*",
 		"*://*.omtrdc.net/*",
 		"*://*.onclickads.net/*",
+		"*://*.onclkds.com/*",
 		"*://*.onestat.com/*",
 		"*://*.ongkidcasarv.com/*",
 		"*://*.online-metrix.net/*",
