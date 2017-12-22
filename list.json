@@ -1,5 +1,5 @@
 {
-	"version":18,
+	"version":19,
 	"name":"Main",
 	"type":"Stable",
 	"list":[
@@ -1811,6 +1811,7 @@
 		"*://*.suavalds.com/*",
 		"*://*.sumome.com/*",
 		"*://*.sundaysky.com/*",
+		"*://*.superfastcdn.com/*",
 		"*://*.superstats.com/*",
 		"*://*.supplyframe.com/*",
 		"*://*.survata.com/*",
@@ -1985,6 +1986,7 @@
 		"*://*.vdna-assets.com/*",
 		"*://*.vdvylfkwjpvw.com/*",
 		"*://*.veinteractive.com/*",
+		"*://*.velocecdn.com/*",
 		"*://*.verityresearchpanel.com/*",
 		"*://*.verityresearchpanel.net/*",
 		"*://*.vertamedia.com/*",
